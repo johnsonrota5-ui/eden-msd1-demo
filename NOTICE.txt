@@ -1,0 +1,17 @@
+EDEN MSD-1 (PGPE-DX)
+Copyright © 2025 Kevin Johnson
+
+PGPE-DX Mathematical Framework — Copyrighted
+EDEN Enforcement Engine — Patent Pending
+
+This repository contains a PUBLIC REFERENCE IMPLEMENTATION for:
+- Research
+- Audit
+- Safety verification
+- Educational demonstration
+
+This is NOT a production system.
+This is NOT a commercial release.
+
+Unauthorized commercial use, derivative monetization, or safety bypassing
+is strictly prohibited.
